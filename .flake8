@@ -1,0 +1,3 @@
+[flake8]
+exclude = tests, api, api_yamdb
+ignore = F821, W503, F401, F403, F405, W291, E122, W293, W391, 
